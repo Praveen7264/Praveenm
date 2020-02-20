@@ -1,5 +1,4 @@
 this is done by praveen
-this is done by ravi varma
 console.log("Reloaded");
 
 // dom variables
